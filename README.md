@@ -4,6 +4,7 @@ Prueba para puesto de ingeniero backend en Ingeniería Resuelve
 El proyecto se levanta en el puerto 9090, con el endpoint getPayment a través del método GET, por lo que para consultarlo 
 localmente podría hacerse con una petición GET localhost:9090/getPayment pasándole en el body el JSON de los equipos, por ejemplo:
 
+```yaml
 {
    "jugadores" : [  
       {  
